@@ -1,0 +1,14 @@
+body
+{
+  background-color: #CDFCF6;
+  outline: solid white;
+  outline-width: 10px;
+}
+
+hr
+{
+  background-color: #FFFFFF;
+  border-style: none;
+  height: 10px;
+  width: 2000%;
+}
